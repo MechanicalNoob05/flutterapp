@@ -1,5 +1,7 @@
 # demo
 
+Please add in your firebase config in the android/app/google-services.json
+
 A new Flutter project.
 
 ## Getting Started
